@@ -1,0 +1,19 @@
+.footer-container{
+
+    background-color: rgb(244, 245, 245);
+    width:100%;
+    height:300px;
+    text-align: left;
+    padding:20px;
+
+}
+.btn{
+    border-radius: 3px;
+    background-color: rgb(19, 72, 105);
+    color:white;
+    font-weight: bolder;
+    border:0px aliceblue;
+    height:30px;
+    width:100px;
+
+}
